@@ -29,7 +29,7 @@ background-image: url("http://images.media-allrecipes.com/userphotos/250x250/625
 	
 /*This is individually styling the buddy id on the h1 on howtomakeacake page */
 
-#buddy {
+#buddy p {
 	color: #B6212D;
 }
 	
