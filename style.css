@@ -26,6 +26,13 @@ background-image: url("http://images.media-allrecipes.com/userphotos/250x250/625
 	text-decoration: none;
 	}
 	
+	
+/*This is individually styling the buddy id on the h1 on howtomakeacake page */
+
+#buddy {
+	color: #B6212D;
+}
+	
 
 	
 	
